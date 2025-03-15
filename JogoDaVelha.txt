@@ -1,4 +1,5 @@
-
+JOGO ACABOU
+PLAYER 1 GANHOU
 _x_|_ o_|_ _
 _x_|_o _|__
 _x_|_ _|_ _
